@@ -1,6 +1,6 @@
 main:
   - title: "Accueil"
-    url: https://richard-apn.github.io/showroom/
+    url: /
 
   - title: "Showroom"
     url: /portfolio/
