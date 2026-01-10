@@ -4,8 +4,8 @@ title: "Accueil"
 author_profile: true
 ---
 
-Bienvenue sur le showroom APN Automation.
+Bienvenue sur le showroom APN AUTOMATION.
 
-Ce site présente des applications, démonstrateurs et projets liés à
-l’automatisation industrielle.
+Ce site présente les applications liées à
+l’automatisme industriel développées avec le démonstrateur.
 ---
