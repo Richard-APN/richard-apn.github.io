@@ -153,4 +153,5 @@ Enseignements professionnels post-baccalauréat :
 Enseignements universitaires professionnalisés :
 + Génie Électrique et Informatique Industrielle.
 
+<img width="531" height="156" alt="image" src="https://github.com/user-attachments/assets/ad432f36-521a-4830-8f87-ba8f483adb20" />
 
