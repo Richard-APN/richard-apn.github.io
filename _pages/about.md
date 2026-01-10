@@ -18,13 +18,13 @@ Le démonstrateur APN AUTOMATION a été réalisé en conformité avec
 
 Il a été pensé en 7 parties principales :
 
-	•	Industrie 4.0
-	•	Sécurité machine
-	•	IO Link
-	•	Motion control
-	•	Cybersécurité
-	•	Réalité augmentée
-	•	Vision.
++ Industrie 4.0
++ Sécurité machine
++ IO Link
++ Motion control
++ Cybersécurité
++ Réalité augmentée
++ Vision.
 
 Implémenté 
 
