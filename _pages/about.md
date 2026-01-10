@@ -4,8 +4,6 @@ title: "Démonstrateur APN AUTOMATION 2026"
 author_profile: true
 ---
 
-Démonstrateur APN AUTOMATION 2026
-
 Ce site présente les applications liées à
 l’automatisme industriel développées avec le démonstrateur.
 
@@ -43,17 +41,14 @@ Il comporte pour sa partie opérative (Motion Control)
 Utilisation de la réalité virtuelle
 Le logiciel Factory I/O complète l’installation. 
 
+<img width="631" height="445" alt="image" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
 
+                                                              Photo Real Games
 
-
-
-
-
-
-Photo Real Games
 Il permet de visualiser le contexte industriel dans lequel les composants du showroom sont utilisés.
 On pourra créer des scénarios pour simuler les commandes homme machine ; visualiser l’action de la reconnaissance de pièces par l’Intelligence Artificielle ; configurer une interface MODBUS.
 Intérêts pédagogiques 
+
 •	Sécurité Machine :
 
 + Description des modes de marche et d’arrêt
@@ -71,9 +66,9 @@ Intérêts pédagogiques
 
 •	Réalité augmentée :
 
+<img width="702" height="592" alt="image" src="https://github.com/user-attachments/assets/9b16a101-849d-4c88-b292-1184c31abb7e" />
 
 + Mise en œuvre du logiciel SARA pour un usage standard : visualisation des données sur tablette des capteurs, automates, actionneurs pour la surveillance, le diagnostic, la mise en service de l’environnement.
-
 
 
 •	Cybersécurité :
@@ -92,6 +87,9 @@ Intérêts pédagogiques
 •	Bus de terrain MODBUS TCPIP :
 
 Communication MODBUS TCP-IP entre les éléments suivants :
+
+<img width="663" height="409" alt="image" src="https://github.com/user-attachments/assets/dfcc6b16-4c3b-4ca5-8736-1101d85306af" />
+
 	+ Le SERVEUR PLC NXP2 
 	+ Le CLIENT Factory I/O pour la partie réalité virtuelle
 	+ Le  CLIENT SARA pour la partie réalité augmentée.
@@ -103,6 +101,8 @@ Communication MODBUS TCP-IP entre les éléments suivants :
 •	Bus de terrain ETHERCAT :
 
 Communication ETHERCAT entre les éléments suivants :
+
+<img width="784" height="239" alt="image" src="https://github.com/user-attachments/assets/5e2b36f9-d5a9-4bc4-8e96-956e4109d7e8" />
 
 	+ Le MAITRE PLC NXP2
 	+ L’ESCLAVE R88D (Commande de broche)
@@ -121,8 +121,6 @@ Communication ETHERCAT entre les éléments suivants :
 * Triage automatique de pièces. Modèle pédagogique virtuel
 * Triage automatique de pièces. Modèle pédagogique sans réalité virtuelle
 * Triage automatique de pièces. Modèle pédagogique avec composants industriels.
-
-
 
 
 
