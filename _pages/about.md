@@ -75,7 +75,8 @@ Intérêts pédagogiques
 
 •	Réalité augmentée :
 
-<img width="702" height="592" alt="image" src="https://github.com/user-attachments/assets/9b16a101-849d-4c88-b292-1184c31abb7e" />
+<img width="772" height="633" alt="image" src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" />
+
 
 + Mise en œuvre du logiciel SARA pour un usage standard : visualisation des données sur tablette des capteurs, automates, actionneurs pour la surveillance, le diagnostic, la mise en service de l’environnement.
 
@@ -87,11 +88,11 @@ Intérêts pédagogiques
 •	Motion Control : 
 
 + Mise en œuvre des composants industriels :
-    * Automate + extension OMRON
-    * Contrôleur de broche OMRON
-    * Variateur de fréquence pour MAS OMRON
-    * Contrôleur d’axe moteur pas à pas ETHERCAT SMC
-    * Contrôleur d’axe moteur pas à pas filaire SMC.
+* Automate + extension OMRON
+* Contrôleur de broche OMRON
+ * Variateur de fréquence pour MAS OMRON
+* Contrôleur d’axe moteur pas à pas ETHERCAT SMC
+* Contrôleur d’axe moteur pas à pas filaire SMC.
 
 •	Bus de terrain MODBUS TCPIP :
 
@@ -99,13 +100,9 @@ Communication MODBUS TCP-IP entre les éléments suivants :
 
 <img width="663" height="409" alt="image" src="https://github.com/user-attachments/assets/dfcc6b16-4c3b-4ca5-8736-1101d85306af" />
 
-	+ Le SERVEUR PLC NXP2 
-	+ Le CLIENT Factory I/O pour la partie réalité virtuelle
-	+ Le  CLIENT SARA pour la partie réalité augmentée.
-
-
-
-
++ Le SERVEUR PLC NXP2 
++ Le CLIENT Factory I/O pour la partie réalité virtuelle
++ Le  CLIENT SARA pour la partie réalité augmentée.
 
 •	Bus de terrain ETHERCAT :
 
@@ -113,11 +110,11 @@ Communication ETHERCAT entre les éléments suivants :
 
 <img width="784" height="239" alt="image" src="https://github.com/user-attachments/assets/5e2b36f9-d5a9-4bc4-8e96-956e4109d7e8" />
 
-	+ Le MAITRE PLC NXP2
-	+ L’ESCLAVE R88D (Commande de broche)
-	+ L’ESCLAVE 3GAX-MX2-ECT (Variateur de fréquence pour moteur du plateau rotatif)
-	+ L’ESCLAVE JXCE1 (Commande de la table verticale)
-	+ L’ESCLAVE Flexi Soft (Remontée d’information de sécurité).
++ Le MAITRE PLC NXP2
++ L’ESCLAVE R88D (Commande de broche)
++ L’ESCLAVE 3GAX-MX2-ECT (Variateur de fréquence pour moteur du plateau rotatif)
++ L’ESCLAVE JXCE1 (Commande de la table verticale)
++ L’ESCLAVE Flexi Soft (Remontée d’information de sécurité).
 
 •	Intelligence Artificielle pour le triage automatique de pièces :
 
@@ -131,28 +128,30 @@ Communication ETHERCAT entre les éléments suivants :
 * Triage automatique de pièces. Modèle pédagogique sans réalité virtuelle
 * Triage automatique de pièces. Modèle pédagogique avec composants industriels.
 
-
-
 Publics concernés
+
 Enseignements professionnels pré-baccalauréat :
-•	Seconde professionnelle des métiers
-•	Bac pro MELEC (Métiers de l’Electricité et de ses Environnements Connectés)
-•	Bac pro CIEL (Cybersécurité, Informatique et réseaux, Electronique)
-•	Bac pro MSPC (Maintenance des Systèmes de Production Connectés)
-•	Bac pro PLP (Pilote de Ligne de Production).
++ Seconde professionnelle des métiers
++ Bac pro MELEC (Métiers de l’Electricité et de ses Environnements Connectés)
++ Bac pro CIEL (Cybersécurité, Informatique et réseaux, Electronique)
++ Bac pro MSPC (Maintenance des Systèmes de Production Connectés)
++ Bac pro PLP (Pilote de Ligne de Production).
+
 Enseignements professionnels post-baccalauréat :
-•	BTS ATI (Assistant technique d’ingénieur)
-•	BTS Électrotechnique
-•	BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique)
-•	BTS MS (Maintenance des Systèmes – option A)
-•	BTS CRSA (Conception et Réalisation de Systèmes Automatiques)
-•	BTS CIRA (Contrôle Industriel et Régulation Automatique)
-•	BTS PP (Pilotage de procédés).
++ BTS ATI (Assistant technique d’ingénieur)
++ BTS Électrotechnique
++ BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique)
++ BTS MS (Maintenance des Systèmes – option A)
++ BTS CRSA (Conception et Réalisation de Systèmes Automatiques)
++ BTS CIRA (Contrôle Industriel et Régulation Automatique)
++ BTS PP (Pilotage de procédés).
+  
  Enseignements technologiques :
-•	Bac STI2D, spécialité Énergie et Environnement
-•	Bac spécialité SI.
++ Bac STI2D, spécialité Énergie et Environnement
++ Bac spécialité SI.
+  
 Enseignements universitaires professionnalisés :
-•	Génie Électrique et Informatique Industrielle.
++ Génie Électrique et Informatique Industrielle.
 
 
 
