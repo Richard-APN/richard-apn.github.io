@@ -18,6 +18,7 @@ Le démonstrateur APN AUTOMATION a été réalisé en conformité avec
 •	La directive 2006/42/CE (qui sera prochainement remplacée par le règlement (UE) 2023/1230 du parlement européen) pour la Sécurité Machine.
 
 Il a été pensé en 7 parties principales :
+
 •	Industrie 4.0
 •	Sécurité machine
 •	IO Link
