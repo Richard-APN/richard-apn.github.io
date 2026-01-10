@@ -40,6 +40,7 @@ Il met en œuvre
 •	les langages de programmation conformes à la norme IEC 61131-3
 •	l’outil de programmation Node-Red 
 •	la supervision dans le cadre du dialogue homme machine.
+
 Il comporte pour sa partie opérative (Motion Control)
 •	Un contrôleur d’axe pour machines brushless
 •	Deux contrôleurs d’axe pour machines Pas à Pas
@@ -51,7 +52,6 @@ Le logiciel Factory I/O complète l’installation.
 
 <img width="631" height="445" alt="image" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
 
-                                                              Photo Real Games
 
 Il permet de visualiser le contexte industriel dans lequel les composants du showroom sont utilisés.
 On pourra créer des scénarios pour simuler les commandes homme machine ; visualiser l’action de la reconnaissance de pièces par l’Intelligence Artificielle ; configurer une interface MODBUS.
