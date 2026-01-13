@@ -361,7 +361,7 @@ compress_html:
     envs: development
 
  # force rebuild
-  git add _config.yml
+git add _config.yml
 git commit -m "Force rebuild"
 git push
  
