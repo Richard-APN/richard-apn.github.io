@@ -7,10 +7,10 @@ main:
     url: https://richard-apn.github.io/showroom/portfolio/
 
   - title: "Tata"
-    url: /about/
+    url: /tata/
 
   - title: "TOTO"
-    url: /about/
+    url: /toto/
 
   - title: "Logiciels utilisés"
     url: /logiciels.md
