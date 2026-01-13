@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/
 title: "Démonstrateur APN AUTOMATION 2026"
-author_profile: false
+author_profile: true
 ---
 
 -----
