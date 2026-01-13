@@ -7,7 +7,7 @@ author_profile: true
 <img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
 
 ---
-Ce site présente des applications de l'**industrie 4.0**  autour du **pilotage de systèmes**, de la **sécurité machine**, de la **supervision**, de la **cybersécurité** ainsi que des **solutions pédagogiques ou techniques** associées.
+Ce démonstrateur présente des applications de l'**industrie 4.0**  autour du **pilotage de systèmes**, de la **sécurité machine**, de la **supervision**, de la **cybersécurité** ainsi que des **solutions pédagogiques ou techniques** associées.
 
 Il est implémenté  
 - De la réalité virtuelle  associée au domaine industriel, pour mettre en contexte les exemples d’automatismes proposés.
