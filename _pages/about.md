@@ -14,7 +14,7 @@ l’**automatisation industrielle**, du **pilotage de systèmes** et des
 
 
 
-#  Ce que vous trouverez ici TOTO
+#  Ce que vous trouverez ici 
 
 - **Démonstrateurs fonctionnels**  
   Interfaces, automatismes, supervision, tests applicatifs.
