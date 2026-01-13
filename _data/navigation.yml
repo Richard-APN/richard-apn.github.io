@@ -1,18 +1,4 @@
 main:
   - title: "🚨 MENU TEST 🚨"
     url: /
-    
-  - title: " Accueil"
-    url: https://richard-apn.github.io/showroom/
-
-  - title: "Showroom"
-    url: https://richard-apn.github.io/showroom/portfolio/
-
-  - title: "Tata"
-    url: /about/
-
-  - title: "TOTO"
-    url: /about/
-
-  - title: "Logiciels utilisés"
-    url: /about/ 
+  
