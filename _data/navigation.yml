@@ -1,4 +1,4 @@
- main:
+main:
   - title: "Accueil"
     url: /
 
@@ -12,4 +12,8 @@
     url: /
 
   - title: "Logiciels utilisés"
+    url: /
+    
+ main:
+  - title: "🚨 MENU TEST 🚨"
     url: /
