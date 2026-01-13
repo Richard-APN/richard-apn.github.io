@@ -1,5 +1,5 @@
 ---
-permalink: /Portfolio item number 1/
+permalink: /Portfolio/portfolio1
 title: "Logiciels utilisés"
 author_profile: false
 ---
