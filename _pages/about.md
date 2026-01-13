@@ -19,10 +19,10 @@ Il est implémenté
 #  Ce que vous trouverez ici 
 
 - **Des scénarios industriels**  
-  Exemples de solutions utilisées ou transposables en environnement réel.
+  Des exemples de solutions utilisées ou transposables en environnement réel.
 
-- **Supports pédagogiques**  
-  Projets et ressources destinés à la formation technique.
+- **Des supports pédagogiques**  
+  Des projets et des ressources destinés aux formations technologiques et professionnelles.
 
 # Objectif du site
 
