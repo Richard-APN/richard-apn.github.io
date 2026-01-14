@@ -1,5 +1,5 @@
 ---
-permalink: /preentation_demonstrateur/
+permalink: /presentation_demonstrateur/
 title: "Démonstrateur APN AUTOMATION 2026"
 author_profile: true
 ---
