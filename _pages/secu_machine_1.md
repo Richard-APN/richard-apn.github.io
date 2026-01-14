@@ -13,7 +13,7 @@ author_profile: true
 - [Sécurité machine. ASPECT PEDAGOGIQUE. Partie 2 :](https://richard-apn.github.io/showroom/files/ARTICLE%20LINKDIN%20SECU%201%20VER%201.pdf)
    Choix des éléments de sécurité
 - [Sécurité machine. ASPECT PEDAGOGIQUE. Partie 3 :](https://github.com/Richard-APN/showroom/files/ZOOM_SECU_MACHINE_JUSTIFICATION_SERVO_DRIVE_OMRON_V1.pdf)
-  Justification de lu circuit de commande de sécurité du servo drive OMRON 
+  Justification du circuit de commande de sécurité du servo drive OMRON 
 - [Téléchargement du fichier powerpoint SECURITE MACHINE](http://richard-apn.github.io/showroom/files/SHOW-ROOM-SECU-machine-RIRI.ppsx)
 - [Téléchargement du fichier powerpoint MACHINE D'ETATS](http://richard-apn.github.io/showroom/files/SHOW-ROOM-UTILISATION-RIRI.ppsm)
 
