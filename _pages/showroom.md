@@ -1,6 +1,6 @@
 ---
 permalink: /presentation_demonstrateur/
-title: "Démonstrateur APN AUTOMATION 2026"
+title: "Présentation générale"
 author_profile: true
 ---
 
