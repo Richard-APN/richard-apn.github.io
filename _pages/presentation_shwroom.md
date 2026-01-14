@@ -17,7 +17,7 @@ author_profile: true
 
 <img width="437" height="293" alt="image" src="https://github.com/user-attachments/assets/10dfa148-6390-4cd8-a0d3-bd9299905fa9" />
 
-# [Motion control]
+# [Motion control](https://richard-apn.github.io/showroom/motion_control_1/)
 
 <img width="441" height="346" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" />
 
