@@ -5,6 +5,9 @@ main:
 
   - title: "Le démonstrateur"
     url: https://richard-apn.github.io/showroom/presentation_demonstrateur/
+
+  - title: "La sécurité machine"
+    url: https://richard-apn.github.io/showroom/sécurité_machine_1/
    
   - title: "Public scolaire"
     url: https://richard-apn.github.io/showroom/public/
