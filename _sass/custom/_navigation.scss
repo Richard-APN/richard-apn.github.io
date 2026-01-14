@@ -1,1 +1,8 @@
+.nav__list ul ul {
+  display: none;
+  margin-left: 1em;
+}
 
+.nav__list li:hover > ul {
+  display: block;
+}
