@@ -23,7 +23,7 @@ author_profile: true
 
 # [Industrie 4.0]
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/417e4135-8758-4067-b630-b6e95f9d4729" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/417e4135-8758-4067-b630-b6e95f9d4729" />
 
 # [Vision]
 
@@ -31,7 +31,7 @@ author_profile: true
 
 # [Réalité augmentée]
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/7e9716df-0443-4af9-8844-cc0343cdd1aa" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7e9716df-0443-4af9-8844-cc0343cdd1aa" />
 
 # [Réalité virtuelle]
 
