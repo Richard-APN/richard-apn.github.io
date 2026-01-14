@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
- [Présentation générale](https://richard-apn.github.io/showroom/presentation_demonstrateur/)
+[**Présentation générale**](https://richard-apn.github.io/showroom/presentation_demonstrateur/)
 
 <img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
 
@@ -23,7 +23,7 @@ author_profile: true
 
 # [Motion control](https://richard-apn.github.io/showroom/motion_control_1/)
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" 
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" />
 
  ---
 
@@ -31,13 +31,19 @@ author_profile: true
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/417e4135-8758-4067-b630-b6e95f9d4729" />
 
+---
+
 # [Vision]
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/dde71a02-3af6-4d64-89fe-74864a4dfe11" />
 
+---
+
 # [Réalité augmentée]
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7e9716df-0443-4af9-8844-cc0343cdd1aa" />
+
+---
 
 # [Réalité virtuelle]
 
