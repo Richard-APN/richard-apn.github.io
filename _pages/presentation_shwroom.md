@@ -11,7 +11,11 @@ author_profile: true
 
  [Présentation générale](https://richard-apn.github.io/showroom/presentation_demonstrateur/)
 
+ ---
+
  [Evolution de l'industrie](https://richard-apn.github.io/showroom/evolution_industrie/)
+
+ ----
 
  [Sécurité machine](https://richard-apn.github.io/showroom/secu_machine_1/)
 
@@ -21,7 +25,9 @@ author_profile: true
 
 # [Motion control](https://richard-apn.github.io/showroom/motion_control_1/)
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" 
+
+ ---
 
 # [Industrie 4.0]
 
