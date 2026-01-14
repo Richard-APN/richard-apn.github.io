@@ -1,10 +1,10 @@
-main:
+onstrateurmain:
   
   - title: "Accueil"
     url: https://richard-apn.github.io/showroom/
 
   - title: "Démonstrateur"
-    url: https://richard-apn.github.io/showroom/portfolio/
+    url: https://richard-apn.github.io/showroom/demonstrateur/
     children:
       - title: "Projet 1"
         url: https://richard-apn.github.io/showroom/portfolio/projet1/
