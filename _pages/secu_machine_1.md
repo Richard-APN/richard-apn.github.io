@@ -10,4 +10,4 @@ author_profile: true
 ----
 - [Téléchargement du fichier powerpoint SECURITE MACHINE](http://richard-apn.github.io/showroom/files/SHOW-ROOM-SECU-machine-RIRI.ppsx)
 - [Téléchargement du fichier powerpoint MACHINE D'ETATS](http://richard-apn.github.io/showroom/files/SHOW-ROOM-UTILISATION-RIRI.ppsm)
-- [Sécurité machine. ASPECT PEDAGOGIQUE](http://richard-apn.github.io/showroom/files/ARTICLE LINKDIN SECU 2 VER 1.pdf)
+- [Sécurité machine. ASPECT PEDAGOGIQUE](https://richard-apn.github.io/showroom/files/ARTICLE%20LINKDIN%20SECU%202%20VER%201.pdf)
