@@ -23,7 +23,7 @@ author_profile: true
 
 # [Industrie 4.0]
 
-<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/417e4135-8758-4067-b630-b6e95f9d4729" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/417e4135-8758-4067-b630-b6e95f9d4729" />
 
 # [Vision]
 
