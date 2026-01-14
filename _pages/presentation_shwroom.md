@@ -15,16 +15,29 @@ author_profile: true
 
 # [Sécurité machine](https://richard-apn.github.io/showroom/secu_machine_1/)
 
+<img width="437" height="293" alt="image" src="https://github.com/user-attachments/assets/10dfa148-6390-4cd8-a0d3-bd9299905fa9" />
+
 # [Motion control]
+
+<img width="441" height="346" alt="image" src="https://github.com/user-attachments/assets/32ecf47c-fa86-4531-8e85-75230e9b3995" />
 
 # [Industrie 4.0]
 
+<img width="340" height="468" alt="image" src="https://github.com/user-attachments/assets/417e4135-8758-4067-b630-b6e95f9d4729" />
+
 # [Vision]
 
+<img width="392" height="290" alt="image" src="https://github.com/user-attachments/assets/dde71a02-3af6-4d64-89fe-74864a4dfe11" />
+
 # [Réalité augmentée]
+
+<img width="510" height="290" alt="image" src="https://github.com/user-attachments/assets/7e9716df-0443-4af9-8844-cc0343cdd1aa" />
 
 # [Réalité virtuelle]
 
 # [Intelligence artificielle]
 
 # [Cybersécurité]
+
+<img width="452" height="307" alt="image" src="https://github.com/user-attachments/assets/068c0dff-6d1a-4d1f-a1ee-08f5fc54ce7b" />
+
