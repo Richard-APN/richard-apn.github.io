@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "WIN_20260115_16_33_46_Pro.jpg"
+  avatar           : "WIN_20260115_16_33_46_Pro.png"
   name             : "Richard Martinez"
   pronouns         : # example: "she/her"  
   bio              : "Assesseur pédagogique APN AUTOMATION"
