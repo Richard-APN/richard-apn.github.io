@@ -17,7 +17,7 @@ Il met en œuvre des applications représentatives de l’**industrie 4.0** : pi
 
 ## À propos de ce site
 
-Ce site me sert à **partager des ressources, des démonstrations et des projets autour de l’automatisme, de la vision industrielle et de l’industrie 4.0**.
+Ce site  sert à **partager des ressources, des démonstrations et des projets autour de l’automatisme, de la vision industrielle et de l’industrie 4.0**.
 Il évoluera au fil du temps.
 
 Vous y trouverez :
