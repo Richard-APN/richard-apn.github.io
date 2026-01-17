@@ -1,4 +1,4 @@
-main:
+litemain:
   
   - title: "Accueil"
     url: https://richard-apn.github.io/
@@ -19,4 +19,4 @@ main:
     url: https://richard-apn.github.io/vision/
 
  - title: "Réalité augmentée"
-    url: https://richard-apn.github.io/vision/
+    url: https://richard-apn.github.io/realite_augmentee/
