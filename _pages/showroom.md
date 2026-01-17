@@ -4,94 +4,123 @@ title: "Présentation générale"
 author_profile: true
 ---
 
+<img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
+
 # Le démonstrateur APN AUTOMATION
 
-Conçu par **Paul Brunetti**, réalisé par son équipe.  
-Un **outil de démonstration, développement et support pédagogique**.
+Le démonstrateur APN AUTOMATION a été conçu pour respecter :
+
+- La norme **IEC 62443** : référentiel pour la cybersécurité industrielle  
+- La directive **2006/42/CE** (bientôt remplacée par le règlement UE 2023/1230) pour la sécurité machine
+
+Il est organisé en **7 parties principales** :
+
+1. Industrie 4.0  
+2. Sécurité machine  
+3. IO Link  
+4. Motion control  
+5. Cybersécurité  
+6. Réalité augmentée  
+7. Vision
+
+## Technologies et mise en œuvre
+
+Le démonstrateur intègre :
+
+- **Réalité virtuelle** pour contextualiser les automatismes (Factory I/O)  
+- **Intelligence artificielle** via des modèles de Machine Learning pour le tri de pièces  
+- **Réalité augmentée** pour la maintenance et la surveillance (logiciel SARA)
+
+Il met en œuvre les technologies suivantes :
+
+- Bus de terrain : **MODBUS TCP-IP** et **ETHERCAT**  
+- Technologies de sécurité : **Flexi Soft** et **Flexi Loop** (SICK)  
+- Protocole de communication **IO Link**  
+- Langages de programmation conformes à la norme **IEC 61131-3**  
+- Outil de programmation **Node-RED**  
+- Supervision dans le cadre du dialogue homme-machine  
+
+### Motion Control
+
+- Contrôleur d’axe pour machines brushless  
+- Deux contrôleurs d’axe pour machines pas à pas  
+- Variateur de vitesse pour machines asynchrones  
+- Pilotage via un API maître/serveur pour communication ETHERCAT et MODBUS TCP-IP
 
 ---
 
-## 🟦 Domaines principaux
+## Utilisation de la réalité virtuelle
 
-- Industrie 4.0  
-- Sécurité machine  
-- IO Link  
-- Motion Control  
-- Cybersécurité  
-- Réalité augmentée  
-- Vision
+<img width="631" height="445" alt="image" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
 
----
+La réalité virtuelle permet de :
 
-## 🟩 Réalité Virtuelle (VR)
-
-<img width="631" height="445" alt="VR" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
-
-- Factory I/O pour mettre en contexte les automatismes  
-- Visualisation du showroom industriel  
-- Simulation des commandes homme-machine  
+- Visualiser le contexte industriel  
+- Créer des scénarios simulant les commandes homme-machine  
+- Observer l’action de l’intelligence artificielle sur la reconnaissance de pièces  
+- Configurer une interface MODBUS
 
 ---
 
-## 🟨 Intelligence Artificielle (IA)
+## Intérêts techniques et pédagogiques
 
-- Tri automatique de pièces  
-- Modèles réels et pédagogiques  
-- Observation et analyse des scénarios industriels
+### Sécurité machine
 
----
+- Description des modes de marche et d’arrêt  
+- Choix des éléments de sécurité selon le règlement UE 2023/1230 : stratégie de réduction des risques en 9 étapes  
+- Programmation avec **Flexi Soft Designer** (SICK)  
+- Communication **ETHERCAT** et mise en œuvre de **Flexi Loop**
 
-## 🟧 Réalité Augmentée (RA)
+### Industrie 4.0
 
-<img width="772" height="633" alt="RA" src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" />
+- Mise en œuvre du protocole **IO Link**  
+- Détection, passerelle, visualisation et transmission des données
 
-- Logiciel **SARA** pour la visualisation sur tablette  
-- Surveillance des capteurs et actionneurs  
-- Maintenance et diagnostic
+### Réalité augmentée
 
----
+<img width="772" height="633" alt="image" src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" />
 
-## 🟪 Motion Control
+- Logiciel **SARA** : visualisation des données sur tablette des capteurs, automates et actionneurs pour surveillance et mise en service
 
-- Contrôleurs moteurs brushless et pas à pas  
-- Variateurs pour moteurs asynchrones  
-- Pilotage via API maître/serveur  
-- Communication ETHERCAT et MODBUS TCP-IP
+### Cybersécurité
 
----
+- Mise en œuvre de la norme **IEC 62443**
 
-## 🟦 Bus et Communication
+### Motion Control
 
-**MODBUS TCP-IP** : serveur PLC NXP2, clients Factory I/O et SARA  
-**ETHERCAT** : maître PLC NXP2, esclaves pour broche, plateau, table verticale et sécurité  
+- Automates et contrôleurs OMRON, variateurs, axes moteurs pas à pas  
+- Contrôle des mouvements et coordination via **API maître/serveur**
 
----
+### Bus de terrain
 
-## 🟩 Sécurité Machine
+**MODBUS TCP-IP** : communication entre serveur PLC NXP2, Factory I/O (VR) et SARA (RA)  
+**ETHERCAT** : communication entre maître PLC NXP2 et esclaves pour commandes broche, variateur, table verticale et sécurité
 
-- Modes de marche/arrêt  
-- Programmation avec Flexi Soft Designer (SICK)  
-- Mise en œuvre de Flexi Loop  
-- Conformité au règlement UE 2023/1230
+### Intelligence artificielle
+
+- Tri automatique de pièces : du modèle réel au modèle pédagogique et virtuel  
+- Simulation des scénarios industriels
 
 ---
 
-## 🟨 Cybersécurité
+## Publics concernés
 
-- Conformité norme IEC 62443  
-- Protection des automates et du réseau industriel  
-
----
-
-## 🟧 Logiciels utilisés
-
-Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety Designer, ACT Controller 2, Factory I/O, Wireshark  
-
----
-
-## 🟪 Publics concernés
-
-- **Pré-bac** : Seconde, Bac Pro MELEC, CIEL, MSPC, PLP  
+- **Enseignements professionnels pré-bac** : Seconde professionnelle, Bac Pro MELEC, CIEL, MSPC, PLP  
 - **Post-bac** : BTS ATI, Électrotechnique, CIEL, MS, CRSA, CIRA, PP  
-- **Technologiques** : Bac STI2D, SI  
-- **Universitaires** : Génie électrique et informatique industrielle
+- **Enseignements technologiques** : Bac STI2D, spécialité Énergie et Environnement, Bac SI  
+- **Universitaires professionnalisés** : Génie électrique et informatique industrielle
+
+---
+
+## Logiciels utilisés
+
+- Node-RED  
+- Sysmac Studio (OMRON)  
+- Flexi Soft Designer (SICK)  
+- Sopas Engineering Tools (SICK)  
+- Safety Designer (SICK)  
+- ACT Controller 2 (SMC)  
+- Factory I/O version Modbus  
+- Wireshark
+
+---
