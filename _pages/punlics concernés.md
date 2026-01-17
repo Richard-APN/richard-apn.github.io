@@ -1,6 +1,6 @@
 ---
-permalink: /public/
-title: "Publics scolaires concernés"
+permalink: /motion_control/
+title: "Motion Control"
 author_profile: true
 ---
 ---
