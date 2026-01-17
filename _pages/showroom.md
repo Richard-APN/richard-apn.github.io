@@ -6,7 +6,7 @@ author_profile: true
 
 # Le démonstrateur APN AUTOMATION
 
-Conçu par **Paul Brunetti** et son équipe, le démonstrateur est un **outil pédagogique, de démonstration et de développement industriel**.
+Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil pédagogique, de démonstration et de développement industriel**.
 
 ---
 
@@ -33,7 +33,7 @@ Conçu par **Paul Brunetti** et son équipe, le démonstrateur est un **outil p�
   margin-bottom: 14px;
   border-left: 5px solid;
   border-radius: 4px;
-  background-color: #fafafa;
+  color: #ffffff; /* texte par défaut blanc */
 }
 
 .details-content img {
@@ -42,17 +42,17 @@ Conçu par **Paul Brunetti** et son équipe, le démonstrateur est un **outil p�
   margin: 8px 0;
 }
 
-/* Couleurs par section */
-.domaines { border-color: #3498db; background-color: #eaf3fb; }
-.vr { border-color: #2ecc71; background-color: #eafbea; }
-.ia { border-color: #f1c40f; background-color: #fff9e0; }
-.ra { border-color: #e67e22; background-color: #fff1e6; }
-.motion { border-color: #9b59b6; background-color: #f4eafa; }
-.bus { border-color: #1abc9c; background-color: #e0f7f5; }
-.secu { border-color: #e74c3c; background-color: #fdeaea; }
-.cyber { border-color: #34495e; background-color: #e8eaee; }
-.logiciels { border-color: #95a5a6; background-color: #f5f5f5; }
-.publics { border-color: #16a085; background-color: #e0f7f5; }
+/* Couleurs par section avec contraste élevé */
+.domaines { border-color: #007ACC; background-color: #007ACC; color: #ffffff; }
+.vr { border-color: #2ECC71; background-color: #2ECC71; color: #ffffff; }
+.ia { border-color: #F39C12; background-color: #F39C12; color: #000000; } /* texte noir sur jaune/or */
+.ra { border-color: #E67E22; background-color: #E67E22; color: #ffffff; }
+.motion { border-color: #9B59B6; background-color: #9B59B6; color: #ffffff; }
+.bus { border-color: #16A085; background-color: #16A085; color: #ffffff; }
+.secu { border-color: #2E7D32; background-color: #2E7D32; color: #ffffff; }
+.cyber { border-color: #F1C40F; background-color: #F1C40F; color: #000000; }
+.logiciels { border-color: #E67E22; background-color: #E67E22; color: #ffffff; }
+.publics { border-color: #8E44AD; background-color: #8E44AD; color: #ffffff; }
 </style>
 
 <details>
@@ -68,6 +68,52 @@ Conçu par **Paul Brunetti** et son équipe, le démonstrateur est un **outil p�
 </div>
 </details>
 
+<details>
+<summary class="details-summary">🟩 Réalité Virtuelle (VR)</summary>
+<div class="details-content vr">
+<img src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" alt="VR" />
+- Factory I/O pour contextualisation industrielle  
+- Simulation commandes homme-machine  
+- Visualisation du showroom
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟨 Intelligence Artificielle (IA)</summary>
+<div class="details-content ia">
+- Tri automatique de pièces  
+- Modèles réels et pédagogiques  
+- Analyse des scénarios industriels
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟧 Réalité Augmentée (RA)</summary>
+<div class="details-content ra">
+<img src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" alt="RA" />
+- Logiciel SARA pour visualisation sur tablette  
+- Surveillance capteurs et actionneurs  
+- Maintenance et diagnostic
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟪 Motion Control</summary>
+<div class="details-content motion">
+- Contrôleurs moteurs brushless et pas à pas  
+- Variateurs moteurs asynchrones  
+- Pilotage API maître/serveur  
+- Communication ETHERCAT & MODBUS TCP-IP
+</div>
+</details>
+
+<details>
+<summary class="details-summary">🟦 Bus et Communication</summary>
+<div class="details-content bus">
+**MODBUS TCP-IP** : serveur PLC NXP2, clients Factory I/O et SARA  
+**ETHERCAT** : maître PLC NXP2, esclaves pour broche, plateau, table verticale et sécurité
+</div>
+</details>
 
 <details>
 <summary class="details-summary">🟩 Sécurité Machine</summary>
