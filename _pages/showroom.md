@@ -50,9 +50,9 @@ Utilisation de la réalité virtuelle
 
 <img width="631" height="445" alt="image" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
 
-
 Il permet de visualiser le contexte industriel dans lequel les composants du showroom sont utilisés.
 On pourra créer des scénarios pour simuler les commandes homme machine ; visualiser l’action de la reconnaissance de pièces par l’Intelligence Artificielle ; configurer une interface MODBUS.
+
 ----
 Intérêts techniques et pédagogiques 
 
@@ -125,6 +125,7 @@ Communication ETHERCAT entre les éléments suivants :
 * Triage automatique de pièces. Modèle pédagogique virtuel
 * Triage automatique de pièces. Modèle pédagogique sans réalité virtuelle
 * Triage automatique de pièces. Modèle pédagogique avec composants industriels.
+  
 ----
 Publics concernés
 
@@ -150,6 +151,7 @@ Enseignements professionnels post-baccalauréat :
   
 Enseignements universitaires professionnalisés :
 + Génie Électrique et Informatique Industrielle.
+  
 ----
 Logiciels utilisés
 
@@ -161,4 +163,5 @@ Logiciels utilisés
 + ACT Controller 2 (SMC)
 + FACTORY I/O version Modbus
 + Wireshark.
+
 ----
