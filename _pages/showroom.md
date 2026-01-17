@@ -1,4 +1,4 @@
- ---
+---
 permalink: /presentation_demonstrateur/
 title: "Présentation générale"
 author_profile: true
