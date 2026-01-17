@@ -6,18 +6,22 @@ author_profile: true
 
 # Le démonstrateur APN AUTOMATION
 
-Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil de démonstration, pédagogique et de développement**.
+Conçu par **Paul Brunetti** et son équipe, le démonstrateur est un **outil pédagogique, de démonstration et de développement industriel**.
 
 ---
 
 <style>
+/* Style général des accordions */
 .details-summary {
   font-weight: bold;
   font-size: 1.1em;
   cursor: pointer;
-  padding: 8px;
+  padding: 10px;
   border-radius: 6px;
-  margin-bottom: 4px;
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 .details-summary:hover {
@@ -25,16 +29,35 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil de
 }
 
 .details-content {
-  padding: 8px 16px;
-  margin-bottom: 12px;
+  padding: 10px 20px;
+  margin-bottom: 14px;
+  border-left: 5px solid;
+  border-radius: 4px;
   background-color: #fafafa;
-  border-left: 4px solid #3498db;
 }
+
+.details-content img {
+  max-width: 100%;
+  border-radius: 6px;
+  margin: 8px 0;
+}
+
+/* Couleurs par section */
+.domaines { border-color: #3498db; background-color: #eaf3fb; }
+.vr { border-color: #2ecc71; background-color: #eafbea; }
+.ia { border-color: #f1c40f; background-color: #fff9e0; }
+.ra { border-color: #e67e22; background-color: #fff1e6; }
+.motion { border-color: #9b59b6; background-color: #f4eafa; }
+.bus { border-color: #1abc9c; background-color: #e0f7f5; }
+.secu { border-color: #e74c3c; background-color: #fdeaea; }
+.cyber { border-color: #34495e; background-color: #e8eaee; }
+.logiciels { border-color: #95a5a6; background-color: #f5f5f5; }
+.publics { border-color: #16a085; background-color: #e0f7f5; }
 </style>
 
 <details>
 <summary class="details-summary">🟦 Domaines principaux</summary>
-<div class="details-content">
+<div class="details-content domaines">
 - Industrie 4.0  
 - Sécurité machine  
 - IO Link  
@@ -47,84 +70,4 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil de
 
 <details>
 <summary class="details-summary">🟩 Réalité Virtuelle (VR)</summary>
-<div class="details-content">
-<img width="631" height="445" alt="VR" src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" />
-
-- Factory I/O : contextualisation industrielle  
-- Simulation commandes homme-machine  
-- Visualisation du showroom
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟨 Intelligence Artificielle (IA)</summary>
-<div class="details-content">
-- Tri automatique de pièces  
-- Modèles réels et pédagogiques  
-- Analyse des scénarios industriels
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟧 Réalité Augmentée (RA)</summary>
-<div class="details-content">
-<img width="772" height="633" alt="RA" src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" />
-
-- Logiciel SARA pour visualisation sur tablette  
-- Surveillance capteurs et actionneurs  
-- Maintenance et diagnostic
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟪 Motion Control</summary>
-<div class="details-content">
-- Contrôleurs moteurs brushless et pas à pas  
-- Variateurs moteurs asynchrones  
-- Pilotage API maître/serveur  
-- Communication ETHERCAT & MODBUS TCP-IP
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟦 Bus et Communication</summary>
-<div class="details-content">
-**MODBUS TCP-IP** : serveur PLC NXP2, clients Factory I/O et SARA  
-**ETHERCAT** : maître PLC NXP2, esclaves pour broche, plateau, table verticale et sécurité
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟩 Sécurité Machine</summary>
-<div class="details-content">
-- Modes de marche/arrêt  
-- Programmation Flexi Soft Designer (SICK)  
-- Mise en œuvre de Flexi Loop  
-- Conformité UE 2023/1230
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟨 Cybersécurité</summary>
-<div class="details-content">
-- Norme IEC 62443  
-- Protection des automates et du réseau industriel
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟧 Logiciels utilisés</summary>
-<div class="details-content">
-Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety Designer, ACT Controller 2, Factory I/O, Wireshark
-</div>
-</details>
-
-<details>
-<summary class="details-summary">🟪 Publics concernés</summary>
-<div class="details-content">
-- **Pré-bac** : Seconde, Bac Pro MELEC, CIEL, MSPC, PLP  
-- **Post-bac** : BTS ATI, Électrotechnique, CIEL, MS, CRSA, CIRA, PP  
-- **Technologiques** : Bac STI2D, SI  
-- **Universitaires** : Génie électrique et informatique industrielle
-</div>
-</details>
+<div class="details-conte
