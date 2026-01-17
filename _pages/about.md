@@ -7,7 +7,7 @@ author_profile: true
 <img width="1063" height="532" alt="image" src="https://github.com/user-attachments/assets/19e961d6-792c-4afd-a659-3718825b4bb0" />
 
 ---
-Ce démonstrateur a été pensé dans son organisation et son utilisation par Paul Brunetti. Sa réalisation - câblage et programmation - a été confiée à son équipe d'ingénieurs en automatismes  et en informatique industrielle. les scénarios ont été imaginés pour rendre compte de situations industrielles réelles rencontrée sur le terrain.
+Le démonstrateur a été pensé dans son organisation et son utilisation par Paul Brunetti. Sa réalisation - câblage et programmation - a été confiée à son équipe d'ingénieurs en automatismes  et en informatique industrielle. les scénarios ont été imaginés pour rendre compte de situations industrielles réelles rencontrée sur le terrain.
 Le démonstrateur est non seulement un outil précieux de démonstration, il sert également au développement d'applications, de réglages de process, ainsi que de support pédagogique pour les enseignements technologiques ou  professionnels.
 
 Le démonstrateur présente des applications courantes  de l'**industrie 4.0**  autour du **pilotage de systèmes**, de la **sécurité machine**, de la **supervision**, ou de la **cybersécurité**.
