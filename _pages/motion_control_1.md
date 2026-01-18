@@ -65,7 +65,7 @@ author_profile: true
 </style>
 
 <details>
-<summary class="details-summary">🟩 Motion control — Aspect pédagogique</summary>
+<summary class="details-summary">🟩 Motion control — Ressources pédagogiques</summary>
 <div class="details-content">
 
 <ul>
@@ -95,7 +95,7 @@ author_profile: true
 </details>
 
 <details>
-<summary class="details-summary">🟦 Ressources pédagogiques — Téléchargements</summary>
+<summary class="details-summary">🟦 Téléchargements</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
 
 <ul>
