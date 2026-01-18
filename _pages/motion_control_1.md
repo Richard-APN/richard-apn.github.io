@@ -1,5 +1,5 @@
 ---
-permalink: /motion_control_1/
+permalink: /motion_control/
 title: "Motion control"
 author_profile: true
 ---
