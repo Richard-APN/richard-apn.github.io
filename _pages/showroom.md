@@ -1,6 +1,6 @@
 ---
 permalink: /presentation_demonstrateur/
-title: "Présentation générale"
+title: "Le démonstrateur"
 author_profile: true
 ---
 
