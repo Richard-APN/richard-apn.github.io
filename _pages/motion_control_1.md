@@ -67,7 +67,7 @@ author_profile: true
 </style>
 
 <details>
-<summary class="details-summary">🟩 Motion Control — Aspect pédagogique</summary>
+<summary class="details-summary">🟩 Motion control — Aspect pédagogique</summary>
 <div class="details-content">
 
 <ul>
