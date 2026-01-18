@@ -26,7 +26,8 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil p�
 }
 
 .details-summary:hover {
-  background-color: #f0f0f0;
+  background-color: #000000;
+  color: #ffffff;
 }
 
 .details-content {
