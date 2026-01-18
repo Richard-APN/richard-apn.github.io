@@ -144,7 +144,50 @@ Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety De
 <details>
 <summary class="details-summary">🟪 Publics concernés</summary>
 <div class="details-content publics">
-- **Pré-bac** : Seconde, Bac Pro MELEC, CIEL, MSPC, PLP  
+
+Enseignements professionnels pré-baccalauréat :
++ Seconde professionnelle des métiers
++ Bac pro MELEC (Métiers de l’Electricité et de ses Environnements Connectés)
++ Bac pro CIEL (Cybersécurité, Informatique et réseaux, Electronique)
++ Bac pro MSPC (Maintenance des Systèmes de Production Connectés)
++ Bac pro PLP (Pilote de Ligne de Production).
+
+Enseignements professionnels post-baccalauréat :
++ BTS ATI (Assistant technique d’ingénieur)
++ BTS Électrotechnique
++ BTS CIEL (Cybersécurité, Informatique et réseaux, Électronique)
++ BTS MS (Maintenance des Systèmes – option A)
++ BTS CRSA (Conception et Réalisation de Systèmes Automatiques)
++ BTS CIRA (Contrôle Industriel et Régulation Automatique)
++ BTS PP (Pilotage de procédés).
+  
+Enseignements technologiques :
++ Bac STI2D, spécialité Énergie et Environnement
++ Bac spécialité SI.
+  
+Enseignements universitaires professionnalisés :
++ Génie Électrique et Informatique Industrielle.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  - **Pré-bac** : 
+  Seconde, 
+  Bac Pro MELEC  CIEL, MSPC, PLP  
 - **Post-bac** : BTS ATI, Électrotechnique, CIEL, MS, CRSA, CIRA, PP  
 - **Technologiques** : Bac STI2D, SI  
 - **Universitaires** : Génie électrique et informatique industrielle
