@@ -111,7 +111,7 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil p�
 <summary class="details-summary">🟪 Motion Control</summary>
 <div class="details-content motion">
 <ul>
-  <li>Contrôleurs moteurs brushless et pas à pas</li>
+  <li>Contrôleurs d'axes brushless et pas à pas</li>
   <li>Variateurs moteurs asynchrones</li>
   <li>Pilotage API maître/serveur</li>
   <li>Communication ETHERCAT et MODBUS TCP-IP</li>
