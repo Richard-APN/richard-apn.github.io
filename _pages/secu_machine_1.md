@@ -9,6 +9,7 @@ author_profile: true
 ---
 
 /* Style général des accordions */
+<style>
 .details-summary {
   font-weight: bold;
   font-size: 1.1em;
