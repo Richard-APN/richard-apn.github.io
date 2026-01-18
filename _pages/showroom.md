@@ -81,7 +81,6 @@ Il a été réalisé en conformité avec
 <details>
 <summary class="details-summary">🟩 Réalité Virtuelle (VR)</summary>
 <div class="details-content vr">
-<img src="https://github.com/user-attachments/assets/29b86eb6-5a91-4c92-b7f4-78f1d436e4d7" alt="VR" />
 <ul>
   <li>Factory I/O pour contextualisation industrielle</li>
   <li>Simulation commandes homme-machine</li>
@@ -104,7 +103,6 @@ Il a été réalisé en conformité avec
 <details>
 <summary class="details-summary">🟧 Réalité Augmentée (RA)</summary>
 <div class="details-content ra">
-<img src="https://github.com/user-attachments/assets/6600a257-0e7f-41ac-a1e1-2801510061fb" alt="RA" />
 <ul>
   <li>Logiciel SARA pour visualisation sur tablette</li>
   <li>Surveillance capteurs et actionneurs</li>
