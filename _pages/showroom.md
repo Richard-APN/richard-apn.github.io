@@ -58,7 +58,7 @@ Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil p�
 </style>
 
 <details>
-<summary class="details-summary">🟦 Domaines principaux</summary>
+<summary class="details-summary">🟦 Domaines abordés</summary>
 <div class="details-content domaines">
 <ul>
   <li>Industrie 4.0</li>
