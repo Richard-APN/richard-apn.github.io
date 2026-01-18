@@ -86,7 +86,8 @@ author_profile: true
   </li>
 </ul>
 
-Sous système pédagogique Association IA et RV 
+Triage automatique de pièces par IA. Modèle pédagogoique virtuel
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5tG-uqTZqo?si=jqEtySQtIqMneO5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
