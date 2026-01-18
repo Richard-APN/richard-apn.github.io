@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 Le démonstrateur a été conçu par **Paul Brunetti** et réalisé par une équipe d’ingénieurs en automatismes et en informatique industrielle.
-Il s’appuie sur des **scénarios issus de situations industrielles réelles**, rencontrées sur le terrain.
+Il met en scène des **scénarios issus de situations industrielles réelles**, rencontrées sur le terrain.
 
 Outil de démonstration, il sert également au **développement d’applications**, au **réglage de process** et comme **support pédagogique** pour les enseignements technologiques et professionnels.
 
