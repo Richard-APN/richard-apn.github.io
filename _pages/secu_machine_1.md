@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-# Technique et pédgogie
+# Technique et pédagogie
 
 + Description des modes de marche et d’arrêt
 + Choix des éléments de sécurité selon le règlement (UE) 2023/1230 du parlement européen pour la Sécurité Machine :  Stratégie de réduction des risques en 9 étapes     
