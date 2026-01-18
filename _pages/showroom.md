@@ -9,6 +9,12 @@ author_profile: true
 
 Conçu par **Paul Brunetti** et son équipe, ce démonstrateur est un **outil pédagogique, de démonstration et de développement**.
 
+Il a été réalisé en conformité avec 
+
++ La norme IEC 62443 : le référentiel pour la cybersécurité industrielle
++ La directive 2006/42/CE et le règlement (UE) 2023/1230 du parlement européen pour la Sécurité Machine.
+
+
 ---
 
 <style>
