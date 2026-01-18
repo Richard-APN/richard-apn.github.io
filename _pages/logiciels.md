@@ -7,7 +7,7 @@ author_profile: true
 
 <img width="1592" height="778" alt="image" src="https://github.com/user-attachments/assets/e7579efc-fae9-483c-b0a1-7636d27a18dd" />
 
-# Technique et pédgogie
+# Technique et pédagogie
 
 + Mise en œuvre du protocole de communication IO LINK
 + Choix des participants : détection, passerelle, visualisation, collecte et transmission des données
