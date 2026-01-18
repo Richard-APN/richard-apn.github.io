@@ -10,7 +10,7 @@ author_profile: true
 # Technique et pédgogie
 
 + Mise en œuvre du protocole de communication IO LINK
-+ Choix des participants : détection, passerelle, visualisation, collecte et transmission des données.
++ Choix des participants : détection, passerelle, visualisation, collecte et transmission des données
 
 <style>
 .details-summary {
