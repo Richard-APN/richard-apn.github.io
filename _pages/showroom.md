@@ -147,7 +147,7 @@ Node-RED, Sysmac Studio, Flexi Soft Designer, Sopas Engineering Tools, Safety De
 
 
 Enseignements professionnels pré-baccalauréat :
--- Seconde professionnelle des métiers
++ Seconde professionnelle des métiers
  - + Bac pro MELEC (Métiers de l’Electricité et de ses Environnements Connectés)
  - + Bac pro CIEL (Cybersécurité, Informatique et réseaux, Electronique)
  - + Bac pro MSPC (Maintenance des Systèmes de Production Connectés)
