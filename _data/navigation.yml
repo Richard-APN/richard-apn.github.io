@@ -23,6 +23,14 @@ main:
   - title: "Vision"
     url: https://richard-apn.github.io/vision/
 
+  - title: "Sous systemes développé"
+    url: https://richard-apn.github.io/
+    multi:
+      - title: "ENGLISH"
+        url: https://richard-apn.github.io/
+      - title: "FRENCH"
+        url: https://richard-apn.github.io/
+
 
 
 
