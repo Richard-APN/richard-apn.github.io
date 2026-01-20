@@ -1,17 +1,10 @@
 ---
 permalink: /sous_systemes_ia/
-title: "Sous systèmes intelligence artificielle"
+title: "Sous systèmes Triage automatique de pièces"
 author_profile: true
 ---
 
-🟩 ## Sous systeme : Triage automatique de pièces
-
-APN AUTOMATION propose plusieurs systèmes pédagogiques élémentaires "enfants" du démonstrateur. Parmi ceux-ci nous avons déveloopé un ensemble modulaire qui permet l'étude de Utilisation de l’IA dans le
-triage automatique de pièces. Réalisés sur la même base et de façon évolutive , vous pouvez vous procurer :
-
-+ Le modèle pédagogique version PO virtuelle et commande virtuelle
-+ Le modèle pédagogique version PO réelle et commande réélle
-+ Le modèle pédagogique complet
+ce système blalla=blal
 
 ----
 # Technique et pédagogie
