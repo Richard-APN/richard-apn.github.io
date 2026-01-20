@@ -3,10 +3,10 @@ permalink: /
 title: "Showroom APN AUTOMATION 2026"
 author_profile: true
 ---
-
+----
 <img width="1576" height="800" alt="image" src="https://github.com/user-attachments/assets/7714489c-0ff2-4d95-8d17-07dd4ed7a1e3" />
 
----
+----
 Le démonstrateur a été conçu par **Paul Brunetti** et réalisé par une équipe d’ingénieurs en automatismes et en informatique industrielle.
 Il met en scène des **scénarios issus de situations industrielles réelles** rencontrées sur le terrain.
 
