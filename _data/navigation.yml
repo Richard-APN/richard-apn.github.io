@@ -4,6 +4,13 @@ main:
 
   - title: "Le démonstrateur"
     url: https://richard-apn.github.io/presentation_demonstrateur/
+    multi:
+      - title: "ENGLISH"
+        url: /cv_en
+      - title: "FRENCH"
+
+
+
 
   - title: "Industrie 4.0"
     url: https://richard-apn.github.io/industie4.0/
