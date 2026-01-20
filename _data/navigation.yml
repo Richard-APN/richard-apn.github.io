@@ -6,7 +6,7 @@ main:
     url: https://richard-apn.github.io/presentation_demonstrateur/
 
   - title: "Industrie 4.0"
-    url: https://richard-apn.github.io/industie4.0/
+    url: https://richard-apn.github.io/industrie4.0/
     
   - title: "Sécurité machine"
     url: https://richard-apn.github.io/secu_machine_1/
@@ -25,7 +25,7 @@ main:
 
   - title: "Sous systemes développé"
     url: https://richard-apn.github.io/
-    multi:
+    children:
       - title: "ENGLISH"
         url: https://richard-apn.github.io/
       - title: "FRENCH"
