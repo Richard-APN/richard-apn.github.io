@@ -1,6 +1,6 @@
 ---
 permalink: /sous_systemes/
-title: Sous systèmes connexes"
+title: Sous systèmes connexes
 author_profile: true
 ---
 -----
