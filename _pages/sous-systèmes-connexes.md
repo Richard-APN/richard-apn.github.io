@@ -4,7 +4,8 @@ title: "Sous systèmes connexes"
 author_profile: true
 ---
 -----
-<img width="1590" height="778" alt="image" src="https://github.com/user-attachments/assets/cf3fb446-8395-40a2-905e-4d26606def93" />
+<img width="1341" height="555" alt="image" src="https://github.com/user-attachments/assets/09e66827-f115-47be-bf1e-040b2cc51746" />
+
 
 ----
 # Technique et pédagogie
