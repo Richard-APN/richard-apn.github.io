@@ -87,7 +87,7 @@ author_profile: true
 
 <li>
     <strong>Partie 3 — Système de Commande de la Fonction de Sécurité </strong><br>
-    <a href="https://richard-apn.github.io/files/SECU%20MACHINE%20%20SCFS%20V1%2019_01_2026.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/SECU%20MACHINE%20SCFS%20V1%2019_01_2026.pdf" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
