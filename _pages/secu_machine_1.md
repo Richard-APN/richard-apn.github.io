@@ -3,7 +3,7 @@ permalink: /secu_machine_1/
 title: "Sécurité machine"
 author_profile: true
 ---
-
+----
 <img width="1590" height="795" alt="image" src="https://github.com/user-attachments/assets/19009f3a-796e-4502-a4ed-620e7cf923fd" />
 
 ---
