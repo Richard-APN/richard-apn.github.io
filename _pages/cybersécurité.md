@@ -4,7 +4,8 @@ title: "Cybersécurité"
 author_profile: true
 ---
 -----
-<img width="1455" height="792" alt="image" src="https://github.com/user-attachments/assets/2c1a9e2a-4cf9-46bc-b729-a0c428f112df" />
+<img width="1596" height="778" alt="image" src="https://github.com/user-attachments/assets/28a82ca0-a17d-4d39-bee4-818a08cdccb9" />
+
 
 ----
 
