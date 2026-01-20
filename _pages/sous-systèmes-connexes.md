@@ -103,7 +103,7 @@ Triage automatique de pièces par IA. Modèle pédagogoique virtuel
 <ul>
   <li>
     <strong>Présentation PowerPoint — Versions proposées</strong><br>
-    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+    <a href="http://richard-apn.github.io/files/SOUS_SYSTEME_ IA .pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
