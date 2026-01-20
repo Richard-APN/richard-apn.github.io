@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-# 🟩 Sous systeme : Triage automatique de pièces
+# 🟩 [Sous systeme : Triage automatique de pièces](https://richard-apn.github.io/sous_systemes_ia/)
 
 
 APN AUTOMATION propose plusieurs systèmes pédagogiques élémentaires "enfants" du démonstrateur. Parmi ceux-ci nous avons développé un ensemble modulaire qui permet l'étude de l'utilisation de l’IA pour le
