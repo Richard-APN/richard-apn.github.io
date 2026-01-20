@@ -1,15 +1,13 @@
 ---
 permalink: /sous_systemes_ia/
-title: "Sous systèmes Triage automatique de pièces"
+title: "Sous système Triage automatique de pièces"
 author_profile: true
 ---
 
-ce système blalla=blal
 
 ----
-# Technique et pédagogie
 
-Triage automatique de pièces par IA. Modèle pédagogique version PO virtuelle et commande virtuelle
+# Triage automatique de pièces par IA. Démonstration du modèle pédagogique, version partie opérative virtuelle et commande virtuelle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5tG-uqTZqo?si=jqEtySQtIqMneO5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
