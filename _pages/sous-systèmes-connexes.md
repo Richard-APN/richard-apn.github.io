@@ -9,12 +9,12 @@ author_profile: true
 
 
 APN AUTOMATION propose plusieurs systèmes pédagogiques simples, issus du démonstrateur.
-Parmi eux, nous avons développé un système modulaire permettant de découvrir l’utilisation de l’intelligence artificielle pour le tri automatique de pièces.
+Parmi eux, nous avons développé un système modulaire permettant d'étudier l’utilisation de l’intelligence artificielle pour le tri automatique de pièces.
 
-Ces systèmes, conçus sur une base commune et évolutive, sont disponibles en plusieurs versions:
+Ces systèmes pédagogiques, conçus sur une base commune et évolutive, sont disponibles en plusieurs versions:
 
-+ un modèle pédagogique avec Partie Opérartive virtuelle et commande virtuelle
-+ un modèle pédagogique avec P.O. réelle et commande réelle
++ un modèle avec partie opérartive virtuelle et commande virtuelle
++ un modèle pédagogique avec opérartive virtuelle réelle et commande réelle
 + un modèle pédagogique complet.
   
 ----
