@@ -1,5 +1,5 @@
 ---
-permalink: /industie4.0/
+permalink: /industrie4.0/
 title: "Industrie 4.0"
 author_profile: true
 ---
