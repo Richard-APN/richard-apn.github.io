@@ -7,7 +7,7 @@ author_profile: true
 
 ----
 
-**Triage automatique de pièces par IA. Démonstration du modèle pédagogique, version partie opérative virtuelle et commande virtuelle**
+**Triage de pièces par IA – modèle pédagogique virtuel**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u5tG-uqTZqo?si=jqEtySQtIqMneO5J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
