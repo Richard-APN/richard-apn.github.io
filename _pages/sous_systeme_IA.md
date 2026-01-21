@@ -66,26 +66,13 @@ author_profile: true
 
 <ul>
   <li>
-    <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
-    <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%202%20VER%201.pdf" target="_blank">
+    <strong>Partie 1 — Modèle pédagogique virtuel</strong><br>
+    <a href="https://richard-apn.github.io/files/IA_RV_%20V1_21_01_2026.pdf" target="_blank">
       Télécharger le document PDF
     </a>
   </li>
 
-  <li>
-    <strong>Partie 2 — Choix des éléments de sécurité</strong><br>
-    <a href="https://richard-apn.github.io/files/ARTICLE%20LINKDIN%20SECU%201%20VER%201.pdf" target="_blank">
-      Télécharger le document PDF
-    </a>
-  </li>
-
-  <li>
-    <strong>Partie 3 — Justification du circuit de commande de sécurité Servo drive OMRON</strong><br>
-    <a href="https://richard-apn.github.io/files/ZOOM_SECU_1.pdf" target="_blank">
-      Télécharger le document PDF
-    </a>
-  </li>
-</ul>
+ </ul>
 
 Triage automatique de pièces par IA. Modèle pédagogoique virtuel
 
