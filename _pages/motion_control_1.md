@@ -108,7 +108,7 @@ author_profile: true
 
 <li>
     <strong>FICHE CABLAGE VARIATEUR DE FREQUENCE MX2 REP 12</strong><br>
-    <a href="https://https://richard-apn.github.io/files/FICHE_CONTROLEUR_VARIATEUR_DE FREQUENCE_MX2_REP_12.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/FICHE_CONTROLEUR_VARIATEUR_DE FREQUENCE_MX2_REP_12.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
