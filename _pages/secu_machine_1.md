@@ -138,6 +138,23 @@ author_profile: true
       Télécharger le fichier
     </a>
   </li>
+
+ <li>
+    <strong>FICHE CABLAGE FLEXISOFT REP 1</strong><br>
+    <a href="http://richard-apn.github.io/files/" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+   <li>
+    <strong>FICHE ETHERCAT FLEXISOFT REP 1</strong><br>
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
+
+  
 </ul>
 
 </div>
