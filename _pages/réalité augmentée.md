@@ -64,6 +64,9 @@ author_profile: true
 <summary class="details-summary">🟩 Réalité augmentée — Ressources pédagogiques</summary>
 <div class="details-content">
 
+A implémenter
+
+<!--
 <ul>
   <li>
     <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
@@ -86,7 +89,7 @@ author_profile: true
     </a>
   </li>
 </ul>
-
+-->
 </div>
 </details>
 
@@ -94,6 +97,9 @@ author_profile: true
 <summary class="details-summary">🟦 Réalité augmentée — Téléchargements</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
 
+A implémenter
+
+<!--
 <ul>
   <li>
     <strong>Présentation PowerPoint — Sécurité machine</strong><br>
@@ -109,7 +115,7 @@ author_profile: true
     </a>
   </li>
 </ul>
-
+-->
 </div>
 </details>
 
