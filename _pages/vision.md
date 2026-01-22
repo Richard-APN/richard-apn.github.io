@@ -3,10 +3,10 @@ permalink: /vision/
 title: "Vision"
 author_profile: true
 ---
------
+---
 <img width="1590" height="778" alt="image" src="https://github.com/user-attachments/assets/cf3fb446-8395-40a2-905e-4d26606def93" />
 
-----
+---
 
 # Technique et pédagogie
 
@@ -66,6 +66,7 @@ author_profile: true
 <div class="details-content">
 
 A implémenter
+
 <!--
 <ul>
   <li>
