@@ -106,6 +106,13 @@ author_profile: true
     </a>
   </li>
 
+<li>
+    <strong>FICHE CABLAGE VARIATEUR DE FREQUENCE MX2 REP 12</strong><br>
+    <a href="https://https://richard-apn.github.io/files/FICHE_CONTROLEUR_VARIATEUR_DE FREQUENCE_MX2_REP_12.pdf" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
   <li>
     <strong>FICHE CABLAGE CONTROLEUR AXE LINEAIRE REP 13</strong><br>
     <a href="https://richard-apn.github.io/files/FICHE_CONTROLEUR_AXE_LINEAIRE_REP_13%20.pdf" target="_blank">
@@ -121,8 +128,8 @@ author_profile: true
   </li>
 
  <li>
-    <strong>FICHE CABLAGE CONTROLEUR AXE ROTATIF REP 14</strong><br>
-    <a href="https://richard-apn.github.io/files/FICHE_CONTROLEUR_AXE_ROTATIF_REP_14.pdf" target="_blank">
+    <strong>FICHE CABLAGE VARIATEUR DE FREQUENCE MX2 REP 12</strong><br>
+    <a href="https://https://richard-apn.github.io/files/FICHE_CONTROLEUR_VARIATEUR_DE FREQUENCE_MX2_REP_12.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
