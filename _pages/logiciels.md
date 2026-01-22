@@ -66,6 +66,9 @@ author_profile: true
 <summary class="details-summary">🟩 Industrie 4.0 — Ressources pédagogiques</summary>
 <div class="details-content">
 
+A implémenter
+
+<!--
 <ul>
   <li>
     <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
@@ -88,6 +91,7 @@ author_profile: true
     </a>
   </li>
 </ul>
+-->
 
 </div>
 </details>
@@ -104,12 +108,15 @@ author_profile: true
     </a>
   </li>
 
+ <!--
   <li>
     <strong>Présentation PowerPoint — Machine d’états</strong><br>
     <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
       Télécharger le fichier
     </a>
   </li>
+-->
+  
 </ul>
 
 </div>
