@@ -109,11 +109,10 @@ author_profile: true
 
  <li>
     <strong>FICHE CABLAGE SERVO DRIVE R88D REP 11</strong><br>
-    <a href="https://richard-apn.github.io/files/FICHE_CONTROLEUR_VARIATEUR_DE FREQUENCE_MX2_REP_12.pdf" target="_blank">
+    <a href="https://richard-apn.github.io/files/FICHE_SERVO_DRIVE_R88D_REP_11.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
-
 
 
 <li>
@@ -136,8 +135,6 @@ author_profile: true
       Télécharger le fichier
     </a>
   </li>
-
-
 
   
 </ul>
