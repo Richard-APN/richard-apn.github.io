@@ -68,6 +68,10 @@ author_profile: true
 <summary class="details-summary">🟩 Motion control — Ressources pédagogiques</summary>
 <div class="details-content">
 
+A implémenter
+
+<!--
+
 <ul>
   <li>
     <strong>Partie 1 — Modes de marche et d’arrêt</strong><br>
@@ -90,6 +94,8 @@ author_profile: true
     </a>
   </li>
 </ul>
+
+-->
 
 </div>
 </details>
