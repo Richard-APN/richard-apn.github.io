@@ -70,9 +70,6 @@ author_profile: true
 <summary class="details-summary">🟩 Bus et communication — Ressources pédagogiques</summary>
 <div class="details-content">
 
-A implémenter
-
-
 <ul>
   <li>
     <strong>Partie 1 — Communication Modbus TCP/IP</strong><br>
@@ -111,7 +108,7 @@ A implémenter
   <li>
     <strong>Structure des réseaux</strong><br>
     <a href="https://richard-apn.github.io/files/STRUCTURE_DES_RESEAUX_.V1_25_01_2026.pdf" target="_blank">
-      Télécharger le fichier
+      Télécharger le document PDF
     </a>
   </li>
 
