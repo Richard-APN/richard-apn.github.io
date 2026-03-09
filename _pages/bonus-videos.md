@@ -49,8 +49,11 @@ Le showroom de APN Automation, met en scène une supervision qui assure une visu
 
 Objectifs de sécurité.
 Le système de protection doit :
+
 • empêcher l’accès aux zones dangereuses pendant le fonctionnement de la machine ;
+
 • garantir l’arrêt du processus en cas d’accès opérateur ;
+
 • permettre une reprise contrôlée et sécurisée du cycle de production.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KJm6P3XEa2k?si=GAOMIeU1c6FxtKsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
