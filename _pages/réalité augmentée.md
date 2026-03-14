@@ -97,7 +97,12 @@ A implémenter
 <summary class="details-summary">🟦 Réalité augmentée — Téléchargements</summary>
 <div class="details-content" style="background-color:#1565C0;border-color:#1565C0;">
 
-A implémenter
+ <li>
+    <strong>Présentation PowerPoint — Réalité augmentée SARA</strong><br>
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
 
 <!--
 <ul>
