@@ -99,7 +99,7 @@ A implémenter
 
  <li>
     <strong>Présentation PowerPoint — Réalité augmentée SARA</strong><br>
-    <a href="http://richard-apn.github.io/files/SHOW-ROOM-SECU-machine-RIRI.ppsx" target="_blank">
+    <a href="http://richard-apn.github.io/files/SARA réalité augmentée Sick.pdf" target="_blank">
       Télécharger le fichier
     </a>
   </li>
