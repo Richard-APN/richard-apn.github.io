@@ -154,6 +154,13 @@ author_profile: true
     </a>
   </li>
 
+  <li>
+    <strong>Présentation PowerPoint — Cas d'école 1</strong><br>
+    <a href="http://richard-apn.github.io/files/SHOW-ROOM-UTILISATION-RIRI.ppsm" target="_blank">
+      Télécharger le fichier
+    </a>
+  </li>
+
  </ul>
 
 </div>
